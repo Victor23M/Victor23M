@@ -2,15 +2,9 @@
 
 - 🔭 I’m currently working on: Data Engineer
 - 🌱 I’m currently learning: Python
-<div align="center">
-  <a href="https://github.com/Victor23M">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Victor23M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor23M&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
+
+
+[![An image of @victor23m's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victor23m)](https://holopin.io/@victor23m)
   ##
   
   <div> 
